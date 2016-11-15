@@ -1,0 +1,930 @@
+[
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu V1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu V1\\app\\src\\main\\res\\layout\\activity_manual.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\src\\main\\res\\layout\\activity_manual.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gyro.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\src\\main\\res\\layout\\activity_gyro.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main3.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video + Manu + Acc\\Video+Manu+Acc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video + Manu + Acc\\Video+Manu+Acc\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\src\\main\\res\\layout\\activity_manual.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video + Manu\\Video+Manu V1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video + Manu\\Video+Manu V1\\app\\src\\main\\res\\layout\\activity_manual.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video + Manu\\Video+Manu V1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video + Manu\\Video+Manu V1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main3.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video + Manu + Acc\\Video+Manu+Acc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gyro.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video + Manu + Acc\\Video+Manu+Acc\\app\\src\\main\\res\\layout\\activity_gyro.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu V1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu V1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\src\\main\\res\\layout\\activity_manual.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video + Manu + Acc\\Video+Manu+Acc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video + Manu + Acc\\Video+Manu+Acc\\app\\src\\main\\res\\layout\\activity_manual.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gyro.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\src\\main\\res\\layout\\activity_gyro.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main3.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gyro.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\src\\main\\res\\layout\\activity_gyro.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\src\\main\\res\\layout\\activity_manual.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main3.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\src\\main\\res\\layout\\activity_manual.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gyro.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\src\\main\\res\\layout\\activity_gyro.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main3.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V2\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\DJLs\\Desktop\\ProjetFinal\\Appli Finale\\Video+Manu+Acc+GPS V3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gyro.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS\\app\\src\\main\\res\\layout\\activity_gyro.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "P:\\Annee2\\ER3\\Projet\\Video+Manu+Acc+GPS\\Video+Manu+Acc+GPS VFinale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    }
+]

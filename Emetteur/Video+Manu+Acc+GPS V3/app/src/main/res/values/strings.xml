@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleCamera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Connection">Connection</string>
+    <string name="Robot">Robot</string>
+    <string name="RightSensorFR">Capteur Droit</string>
+    <string name="LeftSensorFR">Capteur Gauche</string>
+    <string name="BackSensorFR">Capteur Arrière</string>
+    <string name="DefaultValue">0</string>
+    <string name="XAxisFR">Axe X</string>
+    <string name="YAxisFR">Axe Y</string>
+    <string name="ZAxeFR">Axe Z</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

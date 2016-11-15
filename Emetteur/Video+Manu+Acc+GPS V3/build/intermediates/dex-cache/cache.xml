@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.3.0_930fad54d22434e977597b511cfe5bd820dcf124.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c6fcd6267cbac6509a2e72a61127534a1d616cf">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.3.0_1ac1d437db69ee1aba3b9403aefa1890565e7010.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.3.0_63772b94544ef315948d0a15dc0d1e42fd9eea4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_3cdc8ef4f322064737bf26e200acbfba61614623.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_5efd38d3045a0cc6de35303b1870e1a5a1d64787.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.3.0_16517549d97b019d86708cf6572cbcdf266d4f0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="eb576427887e497cd958a475475f9206e38dc314">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.3.0_36ad7afbd728971df118728c8fc7cd09f8cb6910.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.3.0_8983404ca1750644eb7c16e3720a5f2c9d36752b.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.3.0_ee11b226081518b87c4d90dffb92767f520bb3a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.3.0_a3c792a9a5da05cfe37156152a174d1e3a94c8ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0af4f577b4a21eb9be2a7f52e33b077b67e6d9f8">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.3.0_1af0ad9916d7f931db99b51714c4927dbf8bfb0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.3.0_cd468a94c3f08e51bbb105b2d6ca370cfa578ae4.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-8.3.0_c1a7dcfdacdff62f7463c404b5a47d16ef08b11b.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.3.0_9c34cf6ffa28638a52fee63e86afbf8ec6ae99d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.3.0_ca949eb4dbad4ca393ef30e371d45a48958862a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.3.0_a0abe0496cac930908f031ee56d96a0322ce0702.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.3.0_9715138e9d65ca39e476a1548e83c41605b633a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.3.0_a010bcca9d164edf8aa52add89e6774bc2b38013.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_a4441542bf660cd348e6858af83d58890ef4da49.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.3.0_178d25ef719def85f77965da909fa44c549cce9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0a1897426566e408a5c20a3d931f77d89771d07f">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.3.0_47c511268ce62c2d8c139a5613c09481178fe803.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-22.2.0_cfdaecaef222b31f550b41bee957263b2b9fd92c.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.3.0_5bdde780a8b563538eb98768948dfac9b1e0fcab.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.3.0_5a48a7936c1d98fb306e055cc36ae970f53e706e.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.3.0_b1a0870b630b877efe20defaf80d0c5bae053fa3.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_2b9e5740e8784ae13146bbfd89949e727d2a432d.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.3.0_c4b90da37a112902305f859a9b8ca9292f2a0f66.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_28767b56da9c339044aee9a632ab0d7d1387c482.jar" />
+    </item>
+    <item
+        jar="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="C:\Users\DJLs\Desktop\ProjetFinal\Appli Finale\Video+Manu+Acc+GPS V3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.3.0_ff4b8f360ce2e403fa5d4843a923a5442ea594cd.jar" />
+    </item>
+
+</items>
