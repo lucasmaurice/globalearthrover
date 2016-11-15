@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReceiveBT</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Connection">Connect</string>
+    <string name="Robot">Robot</string>
+</resources>

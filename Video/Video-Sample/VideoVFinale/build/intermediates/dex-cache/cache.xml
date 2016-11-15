@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="P:\Annee2\ER3\ProjetFinal\Video\VideoVFinale\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="P:\Annee2\ER3\ProjetFinal\Video\VideoVFinale\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b55dc2146e3337e1aa262d793a0a5c13371c9822.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="P:\Annee2\ER3\ProjetFinal\Video\VideoVFinale\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2e09fea196949e7bcfc7620885a9bf7edead5b1b.jar" />
+    </item>
+    <item
+        jar="P:\Annee2\ER3\ProjetFinal\Video\VideoVFinale\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="P:\Annee2\ER3\ProjetFinal\Video\VideoVFinale\app\build\intermediates\pre-dexed\debug\classes-f1e65e8099581e7eaa3240f76ca81e91abc5bb2b.jar" />
+    </item>
+
+</items>

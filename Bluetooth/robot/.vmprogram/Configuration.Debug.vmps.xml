@@ -1,0 +1,8 @@
+<VisualMicro>
+  <Program Name="TP4" Ext=".pde" Location="c:\Users\jnmar\Documents\Arduino\2014\TP4">
+    <Compile IsCompiled="0" CompilerErrors="0" ConfigurationName="Debug" StopOnError="True" OptimiseLibs="True" OptimiseCore="True" BuildPath="C:\Users\jnmar\AppData\Local\VMicro\Arduino\Builds\TP4\mega2560" />
+    <Platform Name="Arduino">
+      <Board Name="mega2560" Description="Arduino Mega 2560 or Mega ADK" CoreFolder="F:\Developpement\Arduino\arduino-1.0.4\arduino-1.0.4\hardware\arduino\cores\arduino" VariantFullPath="F:\Developpement\Arduino\arduino-1.0.4\arduino-1.0.4\hardware\arduino\variants\mega" />
+    </Platform>
+  </Program>
+</VisualMicro>
